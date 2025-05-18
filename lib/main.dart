@@ -42,7 +42,10 @@ final List<Map<String, dynamic>> abassinKosten = [
   {"Beschreibung": "Elektronik kosten prototyping: Touchsensor  ", "Betrag": 53.00},
   {"Beschreibung": "Visitenkarten  ", "Betrag": 80.00},
   {"Beschreibung": "Touch sensor 2.0  ", "Betrag": 25.00},
-
+  {"Beschreibung": "Kaution Miete", "Betrag": 200.00},
+  {"Beschreibung": "Miete April  ", "Betrag": 75.00},
+  {"Beschreibung": "Miete Mai  ", "Betrag": 75.00},
+  {"Beschreibung": "Test phase equipment (Tablet, Kabel etc.  ", "Betrag": 150}
 ];
 
 
